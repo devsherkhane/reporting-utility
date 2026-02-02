@@ -1,24 +1,3 @@
 Student Reporting Utility
-A modular, high-performance CRUD application built with Go and MySQL. This utility allows for efficient student record management and features a custom PDF engine to generate professional reports and individual profile cards.
 
-🚀 Features
-Complete CRUD Operations: Create, Read, Update, and Delete student records with ease.
-
-PDF Report Engine: Generate comprehensive tabular reports for the entire database using gopdf.
-
-Individual Profile Cards: Export specific student data into a formatted PDF card layout.
-
-Authentication & Security: Protected routes using session-based authorization.
-
-Media Management: Built-in support for handling student photo uploads and storage.
-
-🛠️ Tech Stack
-Language: Go (Golang)
-
-Routing: Gorilla Mux
-
-Database: MySQL
-
-PDF Generation: gopdf
-
-Frontend: HTML/CSS (Server-side rendering)
+The Student Reporting Utility is a high-performance CRUD application built with Golang for efficient student data management. It provides secure record handling, supports photo uploads, and generates professional PDF reports and individual student profile cards using a custom PDF engine. Designed with a clean server-side rendered frontend and a scalable backend, the system is suitable for academic and administrative use cases requiring fast, reliable, and well-documented student records.
