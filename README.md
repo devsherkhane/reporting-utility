@@ -4,7 +4,7 @@
 A modular backend utility engineered for high-throughput student record management and automated document generation. This project emphasizes Separation of Concerns and Type Safety, leveraging Go’s concurrency and performance capabilities.
 
 ## Architecture & Design Patterns
-   * Unlike standard CRUD apps, this utility is built using the Service-Repository Pattern to decouple business logic from data persistence.
+   * Unlike standard CRUD apps, this utility is built using the  Service-Repository Pattern to decouple business logic from data persistence.
 
    * Repository Layer: Handles direct MySQL interactions, ensuring that the database schema is abstracted from the rest of the application.
 
