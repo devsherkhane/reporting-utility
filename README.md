@@ -1,6 +1,6 @@
 
 
-# Student Reporting Utility
+# Student Reporting Utility 
 A modular backend utility engineered for high-throughput student record management and automated document generation. This project emphasizes Separation of Concerns and Type Safety, leveraging Go’s concurrency and performance capabilities.
 
 ## Architecture & Design Patterns
