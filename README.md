@@ -20,5 +20,5 @@ A modular backend utility engineered for high-throughput student record manageme
    * Stateless Routing: Utilized gorilla/mux for clean, RESTful API endpoints and dynamic route matching.
 
    * Environment Agnostic: Configuration is managed via a config.yaml file, allowing seamless transitions between development and production environments.
-
+ 
 ---
